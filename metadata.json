@@ -1,0 +1,6 @@
+{
+  "name": "1マイル単価シミュレーター",
+  "description": "特典航空券を利用する際、1マイルが何円相当になるかを算出・比較検討できるマイル単価シミュレーターです。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
